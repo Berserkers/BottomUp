@@ -13,6 +13,7 @@ The bottom-up strategy aims to guarantee as many three star scores as possible. 
 * Yes: Go to step 3
 * No: Next player up on map attacks #9 again (repeat until three starred)
 
+###Step 3
 Continue the same process as you move up the opponent’s map.
 
 This strategy means that stronger players MUST wait for the lower players to attack – they have priority.
